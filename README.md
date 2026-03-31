@@ -1,9 +1,9 @@
 # LaTeX-Tikz-Design-Tool
 
-[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9MWKTCF1VHZ)
+[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9mwktcf1vhzt)
 
-![](Images/Screenshot1.png)
-![](Images/Screenshot2.png)
+![](https://store-images.s-microsoft.com/image/apps.12391.13837808135529852.2c5c0d62-32a5-4028-8468-1821a56c2d4d.e547218e-08d5-48e1-9b96-dfb4d6c83dbf)
+![](https://store-images.s-microsoft.com/image/apps.46378.13837808135529852.2c5c0d62-32a5-4028-8468-1821a56c2d4d.158ddc7f-445f-4c84-a7e9-840a5cb37e41)
 
 > A visual, code-free tool for creating professional TikZ graphics and generating ready-to-compile LaTeX code.
 
